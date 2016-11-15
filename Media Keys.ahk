@@ -20,3 +20,7 @@ return
 F6::
 SoundSet -5
 return
+
+^`::
+run powershell.exe
+return
