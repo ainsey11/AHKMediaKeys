@@ -14,11 +14,11 @@ Send {Media_Play_Pause}
 return
 
 F7::
-SoundSet +5
+SoundSet +1
 return
 
 F6::
-SoundSet -5
+SoundSet -1
 return
 
 ^`::
